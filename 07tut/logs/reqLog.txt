@@ -4,3 +4,11 @@
  20230709	22:29:07	01fade3a-0c13-4f35-9239-bfca63aabdb3	/favicon.ico	 GET
  20230709	22:30:16	d17c3f20-c91c-4368-92e8-2560902771bc	/new-page	 GET
  20230709	22:31:16	6d3c62bb-4d40-4c27-872f-24d269d5e9c9	/index	 GET
+ 20230815	21:20:09	7f44e881-4c94-4cb8-b8aa-ba208153d1c0	GET	undefined	/
+ 20230815	21:20:09	2901ef48-eeb1-43b0-abc4-bd2b0e9fc45f	GET	undefined	/css/style.css
+ 20230815	21:23:12	85b523f7-c2f3-4cab-9570-a9ade12b1748	GET	undefined	/
+ 20230815	21:23:12	390cc3aa-36ec-4a07-961c-92e04efb9a0e	GET	undefined	/css/style.css
+ 20230815	21:24:21	e987f882-5ca3-4082-bc75-7bc27b8274dc	OPTIONS	https://www.google.com	/
+ 20230815	21:24:21	1585b481-0d41-42e4-ac74-1a4717ea0f7e	GET	https://www.google.com	/
+ 20230815	21:39:04	91cf974f-7929-4612-9eef-057003747ad0	OPTIONS	https://www.google.com	/
+ 20230815	21:39:04	ae8c2917-9ac9-452e-9360-4ab013a0f458	GET	https://www.google.com	/
